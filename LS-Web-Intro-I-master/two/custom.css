@@ -1,0 +1,44 @@
+.top_bar {
+  height: 100px;
+  width: 100%;
+  background-color: red;
+}
+
+.middle {
+  height: 800px;
+  width: 100%;
+}
+
+.bottom_bar {
+  height: 100px;
+  width: 100%;
+  background-color: green;
+}
+
+.left_area {
+  position: relative;
+  float: left;
+  height: 100%;
+  width: 33.333%;
+  background-color: blue;
+}
+
+.center_area {
+  position: relative;
+  float: left;
+  height: 100%;
+  width: 33.333%;
+  background-color: purple;
+}
+
+.right_area {
+  position: relative;
+  float: left;
+  height: 100%;
+  width: 33.334%;
+  background-color: yellow;
+}
+
+body {
+  margin: 0;
+}
